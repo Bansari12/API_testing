@@ -1,11 +1,2 @@
-#DEMO
-
-Some description
-
-## Subheader
-
-HELLO!!
-
-## Local Development
-
-This is an example...
+#Testing the user API and fruits API
+#command for testing : go test
